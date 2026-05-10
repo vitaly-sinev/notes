@@ -1,6 +1,12 @@
 1) kargo
+1.1) https://github.com/akuity/kargo
+1.2) https://github.com/argoproj-labs/gitops-promoter-demo
 2) argocd
 2.1) argocd-agent
+2.2) argocd-operator
+2.3) argo-rollouts-manager
+2.4) terraform-provider-argocd
+2.5) argocd-ephemeral-access
 3) grafan
 3.1) управление пользователями через tf
 3.2) гитсинк
