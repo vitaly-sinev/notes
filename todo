@@ -1,5 +1,6 @@
 1) kargo
 2) argocd
+2.1) argocd-agent
 3) grafan
 3.1) управление пользователями через tf
 3.2) гитсинк
