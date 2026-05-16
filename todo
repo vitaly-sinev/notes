@@ -15,6 +15,7 @@
 4.1) маскирование данных для mcp
 4.2) аудит
 4.3) обновление оставшихся интансов
+4.4) https://github.com/awslabs/mcp/tree/main/src/postgres-mcp-server
 5) aws wan
 6) iam 
 6.1) айдентити to терраформ
