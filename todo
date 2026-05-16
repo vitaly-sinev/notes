@@ -18,6 +18,8 @@
 4.4) https://github.com/awslabs/mcp/tree/main/src/postgres-mcp-serverv
 4.5) https://github.com/onsen-ai/rds-skill/tree/main
 4.6) https://github.com/awslabs/pireporter
+4.7) https://github.com/awslabs/prometheus-cloudwatch-database-insights-exporter
+4.8) http://github.com/aws-samples/sample-dat301-PG-IDR
 5) aws wan
 6) iam 
 6.1) айдентити to терраформ
