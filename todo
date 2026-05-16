@@ -17,6 +17,7 @@
 4.3) обновление оставшихся интансов
 4.4) https://github.com/awslabs/mcp/tree/main/src/postgres-mcp-serverv
 4.5) https://github.com/onsen-ai/rds-skill/tree/main
+4.6) https://github.com/awslabs/pireporter
 5) aws wan
 6) iam 
 6.1) айдентити to терраформ
@@ -36,6 +37,7 @@
 11) vlogs
 12) vtrace
 13) Добавить истиосайдкар
+
 
 
 
